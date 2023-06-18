@@ -137,13 +137,3 @@ const readData = async (cid, key) => {
 | traceFactoryAddress        | 0xf8dd0335000281e31d7586472802F73E0ba2aC30 |
 | traceHubAddress            | 0x35DB2D1D541eE75cBACe4aC906368cd8E949a41F |
 | traceImplimentationAddress | 0x98AC2912B3da522d81135a6Facb04319341B01d5 |
-
-@v1.0.0:
--Initial implementation.
-
-@v1.0.1:
--Added method to view IPLD encrypted data.
--EIP1559 support
-
-@v1.0.3"
--Better Error Handeling
