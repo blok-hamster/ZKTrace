@@ -130,7 +130,7 @@ const readData = async (cid, key) => {
 
 ## Deployed addresses
 
-### Famtom Testnet
+### Polygon Mumbai Testnet
 
 | Smart contract             | Address                                    |
 | -------------------------- | ------------------------------------------ |
